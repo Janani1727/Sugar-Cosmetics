@@ -16,6 +16,7 @@ let addProduct = async (e)=>{
   let price = form.price.value;
   let rating = form.rating.value;
   
+  
 
   let user_data = {
       id : Date.now(),

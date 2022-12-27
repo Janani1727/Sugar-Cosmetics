@@ -27,5 +27,6 @@ let form=document.querySelector("form")
                 alert("Wrong Email ID")
             }
         })
+        
         }
     })

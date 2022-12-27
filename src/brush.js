@@ -1,5 +1,6 @@
 let obj_data=[
     {
+        
         image_link:
             "https://cdn.shopify.com/s/files/1/0906/2558/products/BlendTrendFaceBrush-001Blush.jpg?v=1627659984",
         name: "Blend Trend Face Brush - 001 Blush",

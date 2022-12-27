@@ -4,6 +4,7 @@ arr = JSON.parse(localStorage.getItem('CartList')) || [];
 let container = document.getElementById('display');
 container.innerHTML = null;
 
+
 let totalPrice=0;
 let subTotal = 0;
 

@@ -16,6 +16,7 @@ signup.addEventListener("click", function () {
   let Submit = document.createElement("input");
   Submit.type = "submit";
 
+  
   form.append(name, email, Submit);
   container.append(form);
 

@@ -9,6 +9,7 @@ let obj_data=[
         rating: 4.9 + "(15)",
         product:"Face Brush",
     },
+    
     {
         image_link:"https://cdn.shopify.com/s/files/1/0906/2558/products/1_51afaa84-af89-42b5-bdb8-a51b01257bc0.jpg?v=1639582607",
         name: "Contour De Force Face Palette",

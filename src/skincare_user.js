@@ -11,6 +11,7 @@ let obj_data=[
         strike: '',
     },
 
+    
     {
         image_link:
             "https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-citrus-got-real-cooling-stick-28037939429459.jpg?v=1644409181",

@@ -8,6 +8,7 @@ function signUp (){
     }
   }
  
+  
  function cls_fun (){
     mainrpg.style.display="none"
     mainrpg.style.transform="translateX(710px)";   

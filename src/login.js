@@ -6,6 +6,7 @@ function move(e,p,c,n){
             document.getElementById(n).focus();
         }
     }
+    
     if(e.key=="Backspace"){
         if(p!==''){
             document.getElementById(p).focus();
